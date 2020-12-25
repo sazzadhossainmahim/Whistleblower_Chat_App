@@ -1,0 +1,19 @@
+  
+button:active {
+  opacity: 0.5;
+}
+
+button:focus {
+  outline: 0;
+}
+
+img:active {
+  opacity: 0.5;
+}
+*{
+  background-color:rgba(167, 152, 20, 0.61);
+}
+
+p{
+  color: blue;
+}
